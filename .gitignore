@@ -1,0 +1,12 @@
+*.pem
+*.der
+*.sqlite3
+*/data/*
+.gitignore
+.DS_Store
+*.pyc
+*.db
+node_modules
+*/data/*
+*/OrbitDB/*
+*.env
